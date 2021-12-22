@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    background: orangered;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 40px;
+    /* Propiedades Iniciales 
+    border: width style color; */
+    /* border: 10px dashed brown; */
+    /* Shorthand Propiedades Iniciales
+    border-width: 10px;
+    border-style: dashed;
+    border-color: brown; */
+    /* Propiedades Iniciales
+    border-width: top right bottom left;
+    border-style: top right bottom left;
+    border-color: top right bottom left; */
+    /* Propiedades Iniciales
+    border-width: 20px;
+    border-style: groove dashed;
+    border-color: brown steelblue crimson white; */
+    /* Propiedades Iniciales
+    border-top: 10px solid brown;
+    border-right: 5px dashed white;
+    border-left: 8px double black;
+    border-bottom: 8px dotted steelblue; */
+    border-top-width: 20px;
+    border-top-style: double;
+    border-top-color: crimson;
+    border-left-width: 30px;
+    border-left-style: dashed;
+    border-left-color: white;
+    border-bottom-width: 25px;
+    border-bottom-style: solid;
+    border-bottom-color: steelblue;
+    border-right-width: 15px;
+    border-right-style: dotted;
+    border-right-color: violet;
+}
+
+.box {}
+
+.card {
+    margin: 20px auto;
+    width: 400px;
+    height: auto;
+    padding: 20px 0;
+    border: 1px solid black;
+}
+
+.img {
+    display: block;
+    width: 200px;
+    margin: 40px auto;
+    height: 200px;
+    object-fit: cover;
+    /* border: 20px groove brown; */
+    border-radius: 50%;
+    /* border-radius: 30px 10px 25px 2px; */
+    /* border-radius: 50px 5px; */
+    /* border-top-left-radius: 50px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 100px; */
+}
+
+.cta {
+    display: block;
+    width: 150px;
+    background: crimson;
+    border-radius: 3px;
+    padding: 15px 0;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin: 20px auto;
+}
+
+.name {
+    text-align: center;
+    font-family: Arial;
+}

@@ -29,3 +29,6 @@ Listado de Proyectos de de Css.
 
 11- Lista e Imagenes
     * Proyecto de diseño usando listas ul ol usando imagenes , margenes, sombras 11_ListaEImagenes.png
+
+12- Practica #1
+    * Proyecto de práctica donde se usó todo lo aprendido en las prácticas anteriores 12_Practica1.png

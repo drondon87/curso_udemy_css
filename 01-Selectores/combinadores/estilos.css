@@ -1,0 +1,50 @@
+h2,
+h3 {
+    font-size: 25px;
+    font-family: 'Arial';
+}
+
+.contenedor a {
+    text-decoration: none;
+    color: firebrick;
+}
+
+.contenedor>a {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+/*
+Debe de ser un hijo directo
+*/
+
+.contenedor>p {
+    color: lightcoral;
+}
+
+nav.contenedor_etiqueta {
+    background: green;
+}
+
+
+/*
+Selector de hermano adyacente
+*/
+
+h2+p {
+    color: gold
+}
+
+
+/*
+Selector de hermano que sigue
+*/
+
+h2~p {
+    background: hotpink;
+}
+
+h3~p {
+    background: indigo;
+}

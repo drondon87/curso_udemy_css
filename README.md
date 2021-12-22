@@ -32,3 +32,6 @@ Listado de Proyectos de de Css.
 
 12- Practica #1
     * Proyecto de práctica donde se usó todo lo aprendido en las prácticas anteriores 12_Practica1.png
+
+13- PseudoClase
+    * Proyecto de diseño usando las pseudoclases 13_Pseudoclases.png

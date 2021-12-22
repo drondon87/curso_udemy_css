@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.box {
+    display: block;
+    background: steelblue;
+    width: 55px;
+    height: 55px;
+    margin: 10px 0;
+    margin-left: 5px;
+    text-align: center;
+    line-height: 55px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.container {
+    margin-left: -5px;
+    padding: 10px 0;
+    border: 3px solid lightcoral;
+}
+
+
+/* Por su tipo */
+
+
+/* div.box {
+    background: tomato;
+}
+
+Seleccciona elementos unicos en su seccion
+div:only-of-type {
+    background: tomato;
+}
+
+.box:only-of-type {
+    background: tomato;
+}
+
+Selecciona al primer elemento de su tipo dentro dentro de su contenedor
+.box:first-of-type {
+    background: tomato;
+}
+
+Selecciona al ultimo elemento de su tipo dentro dentro de su contenedor
+.box:last-of-type {
+    background: tomato;
+}
+
+Selecciona los segundos del mismo tipo
+.box:nth-of-type(2) {
+    background: tomato;
+}
+
+Selecciona los elementos impares odd y para los pares even y N selecciona a todos los elementos
+2n va de contador de 2 en 2
+.box:nth-of-type(2n) {
+    background: tomato;
+} 
+Selecciona elementos de abajo hacia arriba
+.box:nth-last-of-type(1) {
+    background: tomato;
+}
+*/
+
+
+/* Por clases */
+
+
+/*Que no tenga hijos ni hermano
+.box:only-child {
+    background: tomato;
+}
+
+Selecciona al primer hijo de su contenedor
+.box:first-child {
+    background: tomato;
+}
+
+Selecciona al ultimo elemento de su padre
+.box:last-child {
+    background: tomato;
+}
+
+.box:nth-child(3) {
+    background: tomato;
+}
+*/
+
+.box:nth-last-child(1) {
+    background: tomato;
+}

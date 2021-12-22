@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background: #9ab1f6; */
+    font-family: 'Raleway', sans-serif;
+}
+
+.card {
+    /* background: #2a265f; */
+    background-image: linear-gradient(#2a265fb6, #2a265fb4), url(background.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 400px;
+    color: #fff;
+    margin: 40px auto;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+.title {
+    font-size: 30px;
+    border-bottom: 3px solid #fff;
+    padding: 7px;
+    margin-bottom: 30px;
+}
+
+.text {
+    font-weight: 300;
+    margin-bottom: 15px;
+    line-height: 2;
+    text-transform: capitalize;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.cta {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    border: 1px solid #fff;
+    padding: 15px 25px;
+    border-radius: 3px;
+}
+
+.container {
+    background: #fff;
+    width: 90%;
+    /* height: 500px; */
+    margin: 30px auto;
+    padding: 20px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, .2);
+    text-align: center;
+}
+
+.h1 {
+    text-align: center;
+    /* line-height: 500px; */
+    font-weight: 600;
+    font-style: italic;
+}
+
+.copy {
+    /* text-align: justify; */
+    padding: 10px 0;
+    font-weight: 300;
+    /* font-style: oblique; */
+    /* letter-spacing: -4px; */
+    /* word-spacing: 30px; */
+    /* text-shadow: 3px 3px 6px rgba(0, 0, 0, .5); */
+    /* text-shadow: 10px 10px; */
+    /* text-transform: capitalize; */
+    /* line-height: 30px; */
+    /* PROPIEDADES FONTS*/
+    /* font-variant: small-caps; */
+}
+
+
+/* .bold {
+    color: coral;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 18px;
+} */
+
+
+/* p {
+    text-align: left;
+}*/
+
+
+/* a {
+    display: block;
+    text-align: center;
+} */
+
+.img {
+    width: 250px;
+}
+
+.enlace {
+    display: inline-block;
+    color: coral;
+    border: 1px solid;
+    /* text-decoration: line style color; */
+    /* text-decoration-line: line-through overline underline;
+    text-decoration-style: wavy;
+    text-decoration-color: coral; */
+    text-decoration: none;
+    padding: 10px 25px;
+}
+
+
+/* input {
+    font-family: inherit;
+} */

@@ -19,4 +19,7 @@ Listado de Proyectos de de Css.
     * Proyecto de diseño usando los colores 7_Colores.png
 
 8- Background
-    * Proyecto de diseño usando los background, imagenes, y gradientes en las imagenes
+    * Proyecto de diseño usando los background, imagenes, y gradientes en las imagenes 8_Background.png
+
+9- Textos
+    * Proyecto de diseño usando las propiedades de los textos e importaciones de textos en páginas. 9_Textos.png

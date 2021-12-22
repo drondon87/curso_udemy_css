@@ -16,4 +16,7 @@ Listado de Proyectos de de Css.
     * Proyecto de diseño usando las sombras en las imagens con fondo como sin fondo 6_BoxShadow.png 
 
 7- Colores
-    9 Proyecto de diseño usando los colores 7_Colores.png
+    * Proyecto de diseño usando los colores 7_Colores.png
+
+8- Background
+    * Proyecto de diseño usando los background, imagenes, y gradientes en las imagenes

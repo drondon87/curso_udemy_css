@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+    height: 400px;
+    margin: 30px auto;
+    background: steelblue;
+    /* background-image: linear-gradient(crimson, steelblue); */
+    /* linear-gradient(direccion, color stop, color stop); */
+    /* background-image: linear-gradient(to top, crimson, pink); */
+    /* background-image: linear-gradient(to bottom, crimson, pink); */
+    /* background-image: linear-gradient(to top left, crimson, steelblue); */
+    /* background-image: linear-gradient(120deg, crimson, steelblue); */
+    background-image: linear-gradient(crimson 30%, steelblue 80%);
+}
+
+.header {
+    height: 650px;
+    padding: 0.1px;
+    background-image: linear-gradient(#00008b7e, #4683b481), url(img/hero.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(125, 90, 171, 1) 40%, rgba(0, 212, 255, 1) 100%); */
+}
+
+.title {
+    font-size: 70px;
+    text-align: center;
+    margin-top: 207px;
+    color: #fff;
+    font-family: Arial;
+}

@@ -44,3 +44,6 @@ Listado de Proyectos de de Css.
 
 16 - Práctica de Posicionamiento
     * Proyecto práctica donde se realiza un navbar con secciones que contengan posiciones y gradientes 16_PracticaPosicionamiento.png
+
+17- Variables CSS
+    * Proyecto de diseño utilizando la creación de variables, y su uso durante todo el archivo css

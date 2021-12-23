@@ -47,3 +47,6 @@ Listado de Proyectos de de Css.
 
 17- Variables CSS
     * Proyecto de diseño utilizando la creación de variables, y su uso durante todo el archivo css
+
+18- Práctica Variables
+    * Proyecto de diseño de práctica utilizando las variables y creando un formulario 18_PracticaVariables.png

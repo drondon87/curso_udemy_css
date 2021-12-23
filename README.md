@@ -41,3 +41,6 @@ Listado de Proyectos de de Css.
 
 15 - Posicionamiento
     * Proyecto de diseño usando los posicionamiento relative, absolute, fixed 15_Posicionamiento.png
+
+16 - Práctica de Posicionamiento
+    * Proyecto práctica donde se realiza un navbar con secciones que contengan posiciones y gradientes 16_PracticaPosicionamiento.png

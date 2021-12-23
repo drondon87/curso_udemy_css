@@ -13,3 +13,4 @@ https://cssgradient.io/
 https://webgradients.com/
 https://uigradients.com/#TheBlueLagoon
 https://fonts.google.com/
+https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections

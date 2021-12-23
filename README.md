@@ -50,3 +50,6 @@ Listado de Proyectos de de Css.
 
 18- Práctica Variables
     * Proyecto de diseño de práctica utilizando las variables y creando un formulario 18_PracticaVariables.png
+
+19- Diseño Adaptable
+    * Proyecto de diseño usando diseño responsive así como en la tarea práctica se coloca un diseño adaptable a las cards creadas.

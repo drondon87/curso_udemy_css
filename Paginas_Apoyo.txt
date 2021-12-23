@@ -14,3 +14,5 @@ https://webgradients.com/
 https://uigradients.com/#TheBlueLagoon
 https://fonts.google.com/
 https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections
+https://developer.mozilla.org/es/docs/Web/CSS/Media_Queries/Using_media_queries
+https://whatismyviewport.com/

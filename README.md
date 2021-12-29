@@ -59,3 +59,6 @@ Listado de Proyectos de de Css.
 
 21- Curiosidades
     * Proyecto utilizando flexbox con imagenes 21_Curiosidades.png
+
+22- LandingPage
+    * Proyecto utilizando flexbox creando una landingpage 22_LandingPage.png

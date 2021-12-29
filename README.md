@@ -56,3 +56,6 @@ Listado de Proyectos de de Css.
 
 20- Flexbox
     * Proyecto de prueba para verificar los atributos de flexbox 20_flexbox.png
+
+21- Curiosidades
+    * Proyecto utilizando flexbox con imagenes 21_Curiosidades.png

@@ -53,3 +53,6 @@ Listado de Proyectos de de Css.
 
 19- Diseño Adaptable
     * Proyecto de diseño usando diseño responsive así como en la tarea práctica se coloca un diseño adaptable a las cards creadas.
+
+20- Flexbox
+    * Proyecto de prueba para verificar los atributos de flexbox 20_flexbox.png

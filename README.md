@@ -62,3 +62,6 @@ Listado de Proyectos de de Css.
 
 22- LandingPage
     * Proyecto utilizando flexbox creando una landingpage 22_LandingPage.png
+
+23- Galeria
+    * Proyecto utilizando flexbox creando una galeria de imagenes 23_Galeria.png

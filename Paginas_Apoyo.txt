@@ -17,3 +17,4 @@ https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections
 https://developer.mozilla.org/es/docs/Web/CSS/Media_Queries/Using_media_queries
 https://whatismyviewport.com/
 https://caniuse.com/
+https://www.youtube.com/watch?v=eHTRYaFQRGc

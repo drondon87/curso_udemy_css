@@ -71,3 +71,6 @@ Listado de Proyectos de de Css.
 
 25- Z-Index
     * Proyecto utilizando flexbox utilizando z-index 25_Zindex.png
+
+26- Tabla Precios
+    * Proyecto utilizando flexbox practica de cards 26_PracticaCards.png

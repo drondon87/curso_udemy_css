@@ -65,3 +65,6 @@ Listado de Proyectos de de Css.
 
 23- Galeria
     * Proyecto utilizando flexbox creando una galeria de imagenes 23_Galeria.png
+
+24- Cards
+    * Proyecto utilizando flexbox creando un listado de cards 24_Cards.png

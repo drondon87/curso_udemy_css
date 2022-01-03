@@ -18,3 +18,5 @@ https://developer.mozilla.org/es/docs/Web/CSS/Media_Queries/Using_media_queries
 https://whatismyviewport.com/
 https://caniuse.com/
 https://www.youtube.com/watch?v=eHTRYaFQRGc
+https://undraw.co/illustrations
+https://svgporn.com/

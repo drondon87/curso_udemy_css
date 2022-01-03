@@ -74,3 +74,6 @@ Listado de Proyectos de de Css.
 
 26- Tabla Precios
     * Proyecto utilizando flexbox practica de cards 26_PracticaCards.png
+
+27- Pagina Web FlexBox
+    * Creando una pagina web utilizando flexbox 27_PaginaWebFlexbox.png

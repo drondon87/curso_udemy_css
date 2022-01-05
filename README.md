@@ -80,3 +80,6 @@ Listado de Proyectos de de Css.
 
 28- Css Grid
     * Proyecto utilizando las nociones de Css grid 28_CssGrid.png
+
+29- Grid Area
+    * Proyecto utilizando grid Area 29_GridArea.png

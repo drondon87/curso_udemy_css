@@ -89,3 +89,6 @@ Listado de Proyectos de de Css.
 
 31- Formulario Contacto
     * Proyecto creando un formulario de contacto utilizando css grid 31_FormularioContactoCssGrid.png
+
+32- Presentation Card
+    * Proyecto creando una carta de presentacion adaptada a moviles utilizando css grid 32_PresentationCard.png

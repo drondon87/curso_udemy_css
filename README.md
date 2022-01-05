@@ -83,3 +83,6 @@ Listado de Proyectos de de Css.
 
 29- Grid Area
     * Proyecto utilizando grid Area 29_GridArea.png
+
+3'- Css Grid Avanzado
+    * Proyecto utilizando grid Area con funciones avanzadas 30_CssGrid_Avanzado.png

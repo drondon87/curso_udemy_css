@@ -93,5 +93,8 @@ Listado de Proyectos de de Css.
 32- Presentation Card
     * Proyecto creando una carta de presentacion adaptada a moviles utilizando css grid 32_PresentationCard.png
 
-32- Cards
+33- Cards
     * Proyecto creando cards dinamicas usando solo flex grid. 33_Cards.png
+
+34- Gallery Css Grid
+    * Proyecto creando una galeria de imagenes utilizando css grid 34_GaleriaImagenes.png

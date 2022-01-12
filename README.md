@@ -98,3 +98,6 @@ Listado de Proyectos de de Css.
 
 34- Gallery Css Grid
     * Proyecto creando una galeria de imagenes utilizando css grid 34_GaleriaImagenes.png
+
+35- Schedule
+    * Proyecto creando un calendario utilizando css grid 35_Schedule.png

@@ -1,0 +1,21 @@
+*,
+ ::after,
+ ::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    display: flex;
+    height: 100vh;
+}
+
+.clip-path {
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    background: crimson;
+    /* clip-path: circle(50% at center right); */
+    clip-path: inset(30px round 30px 80px);
+}

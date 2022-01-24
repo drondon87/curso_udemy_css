@@ -23,3 +23,5 @@ https://svgporn.com/
 https://bennettfeely.com/clippy/
 https://www.youtube.com/watch?v=SqO_-olNvnU
 https://cssreference.io/property/transform/
+https://cssreference.io/
+https://cubic-bezier.com/#1,.05,.97,.12

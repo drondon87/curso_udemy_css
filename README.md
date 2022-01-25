@@ -107,3 +107,6 @@ Listado de Proyectos de de Css.
 
 38- Transiciones
     * Proyecto utilizando las transiciones 38_Transiciones.png
+
+39- Animaciones
+    * Proyecto de animaciones 39_Animaciones.png

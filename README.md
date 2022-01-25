@@ -113,3 +113,6 @@ Listado de Proyectos de de Css.
 
 40- Practica Card Overla
     * Proyecto practica creando una card utilizando animaciones 40_Practica_card_overlay.png
+
+41- Lightbox
+    * Proyecto practica utilizando animaciones crean una ampliación de imagen 41_Practica_lightbox.png

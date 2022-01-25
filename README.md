@@ -110,3 +110,6 @@ Listado de Proyectos de de Css.
 
 39- Animaciones
     * Proyecto de animaciones 39_Animaciones.png
+
+40- Practica Card Overla
+    * Proyecto practica creando una card utilizando animaciones 40_Practica_card_overlay.png

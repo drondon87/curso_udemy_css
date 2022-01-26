@@ -116,3 +116,6 @@ Listado de Proyectos de de Css.
 
 41- Lightbox
     * Proyecto practica utilizando animaciones crean una ampliación de imagen 41_Practica_lightbox.png
+
+42- Galeria Imagenes
+    * Proyecto practica utilizando animaciones creando una galeria de imagenes 42_Practica_GaleriaImagen.png

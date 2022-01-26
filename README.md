@@ -119,3 +119,6 @@ Listado de Proyectos de de Css.
 
 42- Galeria Imagenes
     * Proyecto practica utilizando animaciones creando una galeria de imagenes 42_Practica_GaleriaImagen.png
+
+43- LandingPage
+    * Proyecto practica utilizando animaciones creando una landingpage 43_Practica_LandingPage.png

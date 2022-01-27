@@ -125,3 +125,6 @@ Listado de Proyectos de de Css.
 
 44- Menu Hamburguesa
     * Proyecto practica utilizando animaciones creando un menu hamburguesa 44_MenuHamburguesa.png
+
+45- Practica Modal
+    * Proyecto practica utilizando animaciones creando un modal 45_ModalAnimado.png

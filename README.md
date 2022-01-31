@@ -128,3 +128,6 @@ Listado de Proyectos de de Css.
 
 45- Practica Modal
     * Proyecto practica utilizando animaciones creando un modal 45_ModalAnimado.png
+
+46- Practica Animar SVG
+    * Proyecto practica utilizando animaciones creando un svg animado 46_AnimarSvg.png

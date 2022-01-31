@@ -131,3 +131,6 @@ Listado de Proyectos de de Css.
 
 46- Practica Animar SVG
     * Proyecto practica utilizando animaciones creando un svg animado 46_AnimarSvg.png
+
+47- Practica Formularion Animado
+    * Proyecto practica utilizando animaciones creando un formulario animado 47_FormularioAnimado.png

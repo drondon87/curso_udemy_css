@@ -21,7 +21,7 @@ body {
     max-width: 1200px;
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: repeat(70px, 1fr, 70px);
+    grid-template-rows: 70px 1fr 70px;
 }
 
 .form__register {
@@ -30,7 +30,7 @@ body {
     border-radius: 8px;
     grid-column: 1/4;
     grid-row: 2/3;
-    box-shadow: 0 10px 20px rgb(0 0 0 / 20%);
+    box-shadow: 0 6px 20px rgb(0 0 0 / 20%);
     display: grid;
     grid-template-rows: max-content max-content 1fr;
     max-width: 400px;
@@ -76,9 +76,9 @@ body {
     background: none;
     color: #c6c6c6;
     outline: none;
-    border: none;
     padding: 10px 10px 10px 5px;
-    border-bottom: 1px solid #40454567;
+    border: none;
+    border-bottom: 1px solid #49454567;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -87,8 +87,8 @@ body {
 }
 
 .form__input:focus+.form__label,
-.form__input:not(:placeholder-shown) {
-    color: #2196f3;
+.form__input:not(:placeholder-shown)+.form__label {
+    color: #2196F3;
     transform: scale(.7) translateY(-34px);
     transform-origin: top left;
 }
@@ -99,13 +99,14 @@ body {
 
 .form__bar {
     position: absolute;
-    border-bottom: 1px solid #2196f3;
+    border-bottom: 1px solid #2196F3;
     display: block;
     bottom: 0;
     left: 0;
     width: 100%;
+    height: 100px;
     transform: scale(0);
-    transition: .3 transform;
+    transition: .3s transform;
     transform-origin: left bottom;
 }
 
@@ -120,12 +121,12 @@ body {
 }
 
 .form__submit {
-    font-family: 'Poppins', sans-serif;
     background: #151212;
     color: #fff;
     padding: .8em 1.5em;
     outline: none;
     border: none;
+    font-family: 'Poppins', sans-serif;
     font-size: 1rem;
     border-radius: 6px;
 }

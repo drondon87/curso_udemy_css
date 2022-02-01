@@ -137,3 +137,6 @@ Listado de Proyectos de de Css.
 
 48- Practica Blog de Notas
     * Proyecto practica utilizando animaciones creando un blog de notas animado 48_BlogNotasAnimado.png
+
+49- Practica Modal Animado Clip-path
+    * Proyecto practica utilizando animaciones creando un modal animado 49_ModalAnimado.png

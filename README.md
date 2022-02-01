@@ -134,3 +134,6 @@ Listado de Proyectos de de Css.
 
 47- Practica Formularion Animado
     * Proyecto practica utilizando animaciones creando un formulario animado 47_FormularioAnimado.png
+
+48- Practica Blog de Notas
+    * Proyecto practica utilizando animaciones creando un blog de notas animado 48_BlogNotasAnimado.png

@@ -28,3 +28,4 @@ https://cubic-bezier.com/#1,.05,.97,.12
 https://codepen.io/team/keyframers/pen/RwKoMmb?editors=0110
 https://developer.mozilla.org/en-US/docs/Web/CSS/transform-box
 https://codepen.io/giaco/pen/OwowJQ
+https://www.magicpattern.design/tools/css-backgrounds

@@ -1,5 +1,5 @@
 *,
- ::after,
+::after,
  ::before {
     margin: 0;
     padding: 0;
@@ -56,7 +56,7 @@ body {
     font-size: 3rem;
 }
 
-.grid_paragraph {
+.grid__paragraph {
     line-height: 1.7;
 }
 
@@ -65,8 +65,8 @@ body {
     color: #fff;
     text-decoration: none;
     padding: 25px 0;
-    text-align: center;
     width: 200px;
+    text-align: center;
 }
 
 .menu {
@@ -88,26 +88,25 @@ body {
     border-radius: 50%;
     position: relative;
     z-index: 1;
-    --transitionActive: transform .5s;
-    --transitionHide: none;
-    --transformActive: scale(1);
-    --transformHide: scale(0);
+    --transition1: transform .5s;
+    --transition2: none;
+    --transform1: scale(1);
+    --transform2: scale(0);
 }
 
 .menu__hamburguer {
     grid-column: 1/2;
     grid-row: 1/2;
-    transition: var(--transformActive);
 }
 
 .menu__hamburguer--hidden {
-    transform: var(--transformHide);
-    transition: var(--transitionHide);
+    transform: var(--transform2);
+    transition: var(--transition2);
 }
 
 .menu__hamburguer--show {
-    transform: var(--transformActive);
-    transition: var(--transitionActive);
+    transform: var(--transform1);
+    transition: var(--transition1);
 }
 
 .menu__checked {
@@ -115,18 +114,18 @@ body {
 }
 
 .menu__checked:checked~.menu__label {
-    --transitionHide: transform .5s;
-    --transitionActive: none;
-    --transformHide: scale(1);
-    --transformActive: scale(0);
+    --transition2: transform .5s;
+    --transition1: none;
+    --transform2: scale(1);
+    --transform1: scale(0);
 }
 
 .menu__links {
     position: fixed;
     width: 100%;
     top: 0;
-    right: 0;
     left: 0;
+    right: 0;
     bottom: 0;
     background-color: #52b788;
     display: flex;
@@ -152,24 +151,23 @@ body {
     animation-name: show;
     animation-duration: .5s;
     animation-fill-mode: both;
-    animation-delay: 2s;
-    --timeStart: 1.5s;
-    --timeMiddle: 2s;
-    --timeEnd: 2.5s;
+    --time1: 1.5s;
+    --time2: 2s;
+    --time3: 2.5s;
     opacity: 0;
     transform: translateY(-20%);
 }
 
 .menu__link:nth-child(1) {
-    animation-delay: var(--timeStart);
+    animation-delay: var(--time1);
 }
 
 .menu__link:nth-child(2) {
-    animation-delay: var(--timeMiddle);
+    animation-delay: var(--time2);
 }
 
 .menu__link:nth-child(3) {
-    animation-delay: var(--timeEnd);
+    animation-delay: var(--time3);
 }
 
 @keyframes show {

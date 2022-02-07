@@ -143,3 +143,6 @@ Listado de Proyectos de de Css.
 
 50- Practica Modal Boton Clip-path
     * Proyecto practica utilizando animaciones creando un boton animado 50_BotonAnimado.png
+
+51- Practica Menu Animado Clip-path
+    * Proyecto practica utilizando animaciones creando un menu animado 51_MenuAnimado.png

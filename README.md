@@ -89,23 +89,41 @@ Proyecto práctica donde se realiza un navbar con secciones que contengan posici
 
 ![16_PracticaPosicionamiento.png](./Imagenes/16_PracticaPosicionamiento.png)
 
-17- Variables CSS
-    * Proyecto de diseño utilizando la creación de variables, y su uso durante todo el archivo css
+## 17- Variables CSS
 
-18- Práctica Variables
-    * Proyecto de diseño de práctica utilizando las variables y creando un formulario 18_PracticaVariables.png
+Proyecto de diseño utilizando la creación de variables, y su uso durante todo el archivo css.
 
-19- Diseño Adaptable
-    * Proyecto de diseño usando diseño responsive así como en la tarea práctica se coloca un diseño adaptable a las cards creadas.
+![17_Variables.png](./Imagenes/17_Variables.png)
 
-20- Flexbox
-    * Proyecto de prueba para verificar los atributos de flexbox 20_flexbox.png
+## 18- Práctica Variables
 
-21- Curiosidades
-    * Proyecto utilizando flexbox con imagenes 21_Curiosidades.png
+Proyecto de diseño de práctica utilizando las variables y creando un formulario.
 
-22- LandingPage
-    * Proyecto utilizando flexbox creando una landingpage 22_LandingPage.png
+![18_PracticaVariables.png](./Imagenes/18_PracticaVariables.png)
+
+## 19- Diseño Adaptable
+
+Proyecto de diseño usando diseño responsive así como en la tarea práctica se coloca un diseño adaptable a las cards creadas.
+
+![19_DisenoAdaptable.png](./Imagenes/19_DisenoAdaptable.png)
+
+## 20- Flexbox
+
+Proyecto de prueba para verificar los atributos de flexbox.
+
+![20_flexbox.png](./Imagenes/20_flexbox.png)
+
+## 21- Curiosidades
+
+Proyecto utilizando flexbox con imagenes.
+
+![21_Curiosidades.png](./Imagenes/21_Curiosidades.png)
+
+## 22- LandingPage
+
+Proyecto utilizando flexbox creando una landingpage.
+
+![22_LandingPage.png](./Imagenes/22_LandingPage.png)
 
 23- Galeria
     * Proyecto utilizando flexbox creando una galeria de imagenes 23_Galeria.png

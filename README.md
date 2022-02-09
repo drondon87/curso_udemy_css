@@ -125,89 +125,174 @@ Proyecto utilizando flexbox creando una landingpage.
 
 ![22_LandingPage.png](./Imagenes/22_LandingPage.png)
 
-23- Galeria
-    * Proyecto utilizando flexbox creando una galeria de imagenes 23_Galeria.png
+## 23- Galeria
 
-24- Cards
-    * Proyecto utilizando flexbox creando un listado de cards 24_Cards.png
+Proyecto utilizando flexbox creando una galeria de imagenes.
 
-25- Z-Index
-    * Proyecto utilizando flexbox utilizando z-index 25_Zindex.png
+![23_Galeria.png](./Imagenes/23_Galeria.png)
 
-26- Tabla Precios
-    * Proyecto utilizando flexbox practica de cards 26_PracticaCards.png
+## 24- Cards
 
-27- Pagina Web FlexBox
-    * Creando una pagina web utilizando flexbox 27_PaginaWebFlexbox.png
+Proyecto utilizando flexbox creando un listado de cards.
 
-28- Css Grid
-    * Proyecto utilizando las nociones de Css grid 28_CssGrid.png
+![24_Cards.png](./Imagenes/24_Card.png)
 
-29- Grid Area
-    * Proyecto utilizando grid Area 29_GridArea.png
+## 25- Z-Index
 
-30- Css Grid Avanzado
-    * Proyecto utilizando grid Area con funciones avanzadas 30_CssGrid_Avanzado.png
+Proyecto utilizando flexbox utilizando z-index.
 
-31- Formulario Contacto
-    * Proyecto creando un formulario de contacto utilizando css grid 31_FormularioContactoCssGrid.png
+![25_Zindex.png](./Imagenes/25_Zindex.png)
 
-32- Presentation Card
-    * Proyecto creando una carta de presentacion adaptada a moviles utilizando css grid 32_PresentationCard.png
+## 26- Tabla Precios
 
-33- Cards
-    * Proyecto creando cards dinamicas usando solo flex grid. 33_Cards.png
+Proyecto utilizando flexbox practica de cards.
 
-34- Gallery Css Grid
-    * Proyecto creando una galeria de imagenes utilizando css grid 34_GaleriaImagenes.png
+![26_PracticaCards.png](./Imagenes/26_PracticaCards.png)
 
-35- Schedule
-    * Proyecto creando un calendario utilizando css grid 35_Schedule.png
+## 27- Pagina Web FlexBox
 
- 37- Transform
-    * Proyecto utilizando el transform 37_Transform.png   
+Creando una pagina web utilizando flexbox.
 
-38- Transiciones
-    * Proyecto utilizando las transiciones 38_Transiciones.png
+![27_PaginaWebFlexbox.png](./Imagenes/27_PaginaWebFlexbox.png)
 
-39- Animaciones
-    * Proyecto de animaciones 39_Animaciones.png
+## 28- Css Grid
 
-40- Practica Card Overla
-    * Proyecto practica creando una card utilizando animaciones 40_Practica_card_overlay.png
+Proyecto utilizando las nociones de Css grid.
 
-41- Lightbox
-    * Proyecto practica utilizando animaciones crean una ampliación de imagen 41_Practica_lightbox.png
+![28_CssGrid.png](./Imagenes/28_CssGrid.png)
 
-42- Galeria Imagenes
-    * Proyecto practica utilizando animaciones creando una galeria de imagenes 42_Practica_GaleriaImagen.png
+## 29- Grid Area
 
-43- LandingPage
-    * Proyecto practica utilizando animaciones creando una landingpage 43_Practica_LandingPage.png
+Proyecto utilizando grid Area.
 
-44- Menu Hamburguesa
-    * Proyecto practica utilizando animaciones creando un menu hamburguesa 44_MenuHamburguesa.png
+![29_GridArea.png](./Imagenes/29_GridArea.png)
 
-45- Practica Modal
-    * Proyecto practica utilizando animaciones creando un modal 45_ModalAnimado.png
+## 30- Css Grid Avanzado
 
-46- Practica Animar SVG
-    * Proyecto practica utilizando animaciones creando un svg animado 46_AnimarSvg.png
+Proyecto utilizando grid Area con funciones avanzadas.
 
-47- Practica Formularion Animado
-    * Proyecto practica utilizando animaciones creando un formulario animado 47_FormularioAnimado.png
+![30_CssGrid_Avanzado.png](./Imagenes/30_CssGrid_Avanzado.png)
 
-48- Practica Blog de Notas
-    * Proyecto practica utilizando animaciones creando un blog de notas animado 48_BlogNotasAnimado.png
+## 31- Formulario Contacto
 
-49- Practica Modal Animado Clip-path
-    * Proyecto practica utilizando animaciones creando un modal animado 49_ModalAnimado.png
+Proyecto creando un formulario de contacto utilizando css grid.
 
-50- Practica Modal Boton Clip-path
-    * Proyecto practica utilizando animaciones creando un boton animado 50_BotonAnimado.png
+![31_FormularioContactoCssGrid.png](./Imagenes/31_FormularioContactoCssGrid.png)
 
-51- Practica Menu Animado Clip-path
-    * Proyecto practica utilizando animaciones creando un menu animado 51_MenuAnimado.png
+## 32- Presentation Card
 
-52 - Practia Reto
-    * Proyecto practica creando una Landingpage 52_RetoPagina.png
+Proyecto creando una carta de presentacion adaptada a moviles utilizando css grid.
+
+![32_PresentationCard.png](./Imagenes/32_PresentationCard.png)
+
+## 33- Cards
+
+Proyecto creando cards dinamicas usando solo flex grid.
+
+![33_Cards.png](./Imagenes/33_Cards.png)
+
+## 34- Gallery Css Grid
+
+Proyecto creando una galeria de imagenes utilizando css grid.
+
+![34_GaleriaImagenes.png](./Imagenes/34_GaleriaImagenes.png)
+
+## 35- Schedule
+
+Proyecto creando un calendario utilizando css grid.
+
+![35_Schedule.png](./Imagenes/35_Schedule.png)
+
+##  37- Transform
+
+Proyecto utilizando el transform.
+
+![37_Transform.png](./Imagenes/37_Transform.png)
+
+##  38- Transiciones
+
+Proyecto utilizando las transiciones.
+
+![38_Transiciones.png](./Imagenes/38_Transiciones.png)
+
+##  39- Animaciones
+
+Proyecto de animaciones. 
+
+![39_Animaciones.png](./Imagenes/39_Animaciones.png)
+
+##  40- Practica Card Overlay
+
+Proyecto practica creando una card utilizando animaciones.
+
+![40_Practica_card_overlay.png](./Imagenes/40_Practica_card_overlay.png)
+
+##  41- Lightbox
+
+Proyecto practica utilizando animaciones crean una ampliación de imagen.
+
+![41_Practica_lightbox.png](./Imagenes/41_Practica_lightbox.png)
+
+##  42- Galeria Imagenes
+
+Proyecto practica utilizando animaciones creando una galeria de imagenes.
+
+![42_Practica_GaleriaImagen.png](./Imagenes/42_Practica_GaleriaImagen.png)
+
+##  43- LandingPage
+
+Proyecto practica utilizando animaciones creando una landingpage.
+
+![43_Practica_LandingPage.png](./Imagenes/43_Practica_LandingPage.png)
+
+##  44- Menu Hamburguesa
+
+Proyecto practica utilizando animaciones creando un menu hamburguesa.
+
+![44_MenuHamburguesa.png](./Imagenes/44_MenuHamburguesa.png)
+
+##  45- Practica Modal
+
+Proyecto practica utilizando animaciones creando un modal.
+
+![45_ModalAnimado.png](./Imagenes/45_ModalAnimado.png)
+
+##  46- Practica Animar SVG
+
+Proyecto practica utilizando animaciones creando un svg animado.
+
+![46_AnimarSvg.png](./Imagenes/46_AnimarSvg.png)
+
+##  47- Practica Formularion Animado
+
+Proyecto practica utilizando animaciones creando un formulario animado.
+
+![47_FormularioAnimado.png](./Imagenes/47_FormularioAnimado.png)
+
+##  48- Practica Blog de Notas
+
+Proyecto practica utilizando animaciones creando un blog de notas animado.
+
+![48_BlogNotasAnimado.png](./Imagenes/48_BlogNotasAnimado.png)
+
+##  49- Practica Modal Animado Clip-path
+
+Proyecto practica utilizando animaciones creando un modal animado.
+
+![49_ModalAnimado.png](./Imagenes/49_ModalAnimado.png)
+
+##  50- Practica Modal Boton Clip-path
+
+Proyecto practica utilizando animaciones creando un boton animado.
+
+![50_BotonAnimado.png](./Imagenes/50_BotonAnimado.png)
+##  51- Practica Menu Animado Clip-path
+
+Proyecto practica utilizando animaciones creando un menu animado.
+
+![51_MenuAnimado.png](./Imagenes/51_MenuAnimado.png)
+##  52 - Practia Reto
+
+Proyecto practica creando una Landingpage.
+
+![52_RetoPagina.png](./Imagenes/52_RetoPagina.png)
